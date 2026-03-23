@@ -1,0 +1,25 @@
+{
+  "name": "safe-ride-pro",
+  "version": "1.0.0",
+  "description": "A specialized video annotation tool for analyzing biking safety footage, featuring structured logging and GPS telemetry integration.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.284.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.4",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^7.3.1"
+  }
+}
