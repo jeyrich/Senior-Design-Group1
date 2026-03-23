@@ -2,7 +2,7 @@
 /* Senior Design TRIPS Annotation Software                                    */
 /* Team Members: Theo Smith, Jack Eyrich, Anthony Roti                        */
 /* Sponsors: Cara Hamann (TRIPS Lab), Tyler Bell (ECE Dept)                   */
-/* Revision Date: 03/09/2026                                                  */
+/* Revision Date: 03/23/2026                                                  */
 /* -------------------------------------------------------------------------- */
 
 import React, { useState, useRef, useCallback, useEffect } from 'react';
